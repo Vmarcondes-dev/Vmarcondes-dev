@@ -1,18 +1,33 @@
-<h1 align="center">Olá 👋, sou Vinicius Marcondes</h1>
-<h3 align="center">Um estudante apaixonado por Desenvolvimento de Software, Python e tecnologias Front-End.</h3>
+# Olá, eu sou o Vinícius! 👋
 
-- 🌱 Atualmente estou aprendendo **Python, HTML5, CSS3 e Git/GitHub**
+Sou um desenvolvedor em formação focado em transformar ideias em códigos bem estruturados e interfaces visuais cativantes. Dedico minha rotina a dominar o potencial do **Python** no desenvolvimento de lógicas de back-end, enquanto aprimoro minhas habilidades em criar páginas modernas, limpas e responsivas com **HTML5** e **CSS3**.
 
-- 💬 Pergunte-me sobre **Qualquer coisa que você quiser, vamos nos conectar!**
+---
 
-- 📫 Como me contatar **viniciusdiasmarcondes1@gmail.com**
+## 🛠️ Tecnologias e Ferramentas
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-</p>
+Tenho trabalhado em projetos utilizando as seguintes tecnologias:
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+- **Front-end:** Desenvolvimento de interfaces estruturadas e estilização moderna utilizando **HTML5** e **CSS3**.
+- **Back-end:** Construção de lógica sólida, automações e manipulação de dados utilizando **Python**.
+- **Versionamento:** Uso de **Git** e **GitHub** para garantir o histórico de desenvolvimento e versionamento seguro dos projetos.
+
+---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Vmarcondes-dev/Vmarcondes-dev/output/github-contribution-grid-snake.svg" alt="Jogo da Cobrinha Animada" />
 </div>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 📬 Vamos conversar?
+
+Estou sempre aberto a trocar ideias sobre tecnologia, aprendizado ou possíveis colaborações. Fique à vontade para me chamar no LinkedIn ou por e-mail:
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-marcondes-dev)
+
+---
+
+_"Construir uma carreira em tecnologia não é sobre saber tudo, mas sobre nunca parar de aprender."_

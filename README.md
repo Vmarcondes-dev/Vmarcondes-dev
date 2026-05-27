@@ -1,4 +1,4 @@
-# Olá, eu sou o Vinícius! 👋
+# Olá, eu sou o Vinicius! 👋
 
 Sou um desenvolvedor em formação focado em transformar ideias em códigos bem estruturados e interfaces visuais cativantes. Dedico minha rotina a dominar o potencial do **Python** no desenvolvimento de lógicas de back-end, enquanto aprimoro minhas habilidades em criar páginas modernas, limpas e responsivas com **HTML5** e **CSS3**.
 

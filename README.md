@@ -10,9 +10,9 @@ Tenho trabalhado em projetos utilizando as seguintes tecnologias:
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-- **Front-end:** Desenvolvimento de interfaces estruturadas e estilização moderna utilizando **HTML5** e **CSS3**.
-- **Back-end:** Construção de lógica sólida, automações e manipulação de dados utilizando **Python**.
-- **Versionamento:** Uso de **Git** e **GitHub** para garantir o histórico de desenvolvimento e versionamento seguro dos projetos.
+- **Front-end:** Construção de layouts organizados, estilizações atraentes e interfaces fluidas usando **HTML5** e **CSS3**.
+- **Back-end:** Resolução de problemas, automação de tarefas e desenvolvimento de lógicas robustas com **Python**.
+- **Controle de Versão:** Organização de código e colaboração segura de projetos utilizando as ferramentas de **Git** e **GitHub**.
 
 ---
 
@@ -24,9 +24,9 @@ Tenho trabalhado em projetos utilizando as seguintes tecnologias:
 
 ## 📬 Vamos conversar?
 
-Estou sempre aberto a trocar ideias sobre tecnologia, aprendizado ou possíveis colaborações. Fique à vontade para me chamar no LinkedIn ou por e-mail:
+Estou sempre disponível para bater um papo sobre tecnologia, compartilhar conhecimento ou explorar novos projetos. Sinta-se em casa para me dar um alô no LinkedIn:
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-marcondes-dev)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-marcondes-333908257)
 
 ---
 

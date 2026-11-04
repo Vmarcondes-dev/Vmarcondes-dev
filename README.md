@@ -1,6 +1,6 @@
 # Olá, eu sou o Vinicius! 👋
 
-Sou um desenvolvedor em formação focado em transformar ideias em códigos bem estruturados e interfaces visuais cativantes. Dedico minha rotina a dominar o potencial do **Python** no desenvolvimento de lógicas de back-end, enquanto aprimoro minhas habilidades em criar páginas modernas, limpas e responsivas com **HTML5** e **CSS3**.
+Sou um desenvolvedor em formação focado em transformar ideias em códigos bem estruturados e interfaces visuais cativantes. Dedico minha rotina a dominar o desenvolvimento de lógicas de back-end com **Python** e **PHP**, enquanto aprimoro minhas habilidades em criar páginas modernas, dinâmicas e responsivas com **HTML5**, **CSS3** e **JavaScript**. Também estou expandindo meus conhecimentos em manipulação e modelagem de dados com **SQL**.
 
 ---
 
@@ -8,10 +8,11 @@ Sou um desenvolvedor em formação focado em transformar ideias em códigos bem 
 
 Tenho trabalhado em projetos utilizando as seguintes tecnologias:
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-- **Front-end:** Construção de layouts organizados, estilizações atraentes e interfaces fluidas usando **HTML5** e **CSS3**.
-- **Back-end:** Resolução de problemas, automação de tarefas e desenvolvimento de lógicas robustas com **Python**.
+- **Front-end:** Construção de layouts organizados, estilizações atraentes e interfaces interativas usando **HTML5**, **CSS3** e **JavaScript**.
+- **Back-end:** Resolução de problemas, automação de tarefas e desenvolvimento de lógicas robustas com **Python** e **PHP**.
+- **Banco de Dados:** Estruturação, consultas e manipulação de informações utilizando **SQL**.
 - **Controle de Versão:** Organização de código e colaboração segura de projetos utilizando as ferramentas de **Git** e **GitHub**.
 
 ---
